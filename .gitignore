@@ -1,0 +1,13 @@
+# Exclude all local operational session tracking logs
+.filo/
+manifest_*.tsv
+
+# Exclude node dependencies overhead
+node_modules/
+.npm-global/
+package-lock.json
+
+# Exclude macOS operating system hidden index files
+.DS_Store
+.localized
+Thumbs.db
