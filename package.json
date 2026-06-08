@@ -1,5 +1,5 @@
 {
-  "name": "filo-organizer",
+  "name": "filo",
   "version": "1.0.0",
   "description": "file + logic — intelligent file organizer for macOS with algorithm benchmarking, checksums, and git-style rollback",
   "keywords": ["file-organizer", "folder-manager", "macos", "cli", "productivity", "automation"],
