@@ -1,12 +1,25 @@
 {
-  "name": "filo",
+  "name": "filo-organizer",
   "version": "1.0.0",
   "description": "file + logic — intelligent file organizer for macOS with algorithm benchmarking, checksums, and git-style rollback",
   "keywords": ["file-organizer", "folder-manager", "macos", "cli", "productivity", "automation"],
   "license": "MIT",
-  "bin": { "filo": "./bin/filo.js" },
-  "files": ["bin/", "lib/", "README.md"],
-  "engines": { "node": ">=14.0.0" },
-  "os": ["darwin"],
-  "repository": { "type": "git", "url": "https://github.com/yourusername/filo" }
+  "bin": {
+    "filo": "./bin/filo.js"
+  },
+  "files": [
+    "bin/",
+    "lib/",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "os": [
+    "darwin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ST0RM-Z/filo.git"
+  }
 }
