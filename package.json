@@ -1,4 +1,3 @@
-cat << 'EOF' > package.json
 {
   "name": "filo-organizer",
   "version": "1.0.0",
@@ -24,4 +23,3 @@ cat << 'EOF' > package.json
     "url": "git+https://github.com/ST0RM-Z/filo.git"
   }
 }
-EOF
