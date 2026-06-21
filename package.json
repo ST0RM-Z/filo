@@ -1,6 +1,6 @@
 {
   "name": "filo-organizer",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "file + logic — intelligent file organizer for macOS with algorithm benchmarking, checksums, and git-style rollback",
   "keywords": [
     "file-organizer",
@@ -22,7 +22,6 @@
   "engines": {
     "node": ">=14.0.0"
   },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ST0RM-Z/filo.git"
