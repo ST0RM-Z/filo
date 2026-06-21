@@ -1,6 +1,6 @@
 {
   "name": "filo-organizer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "file + logic — intelligent file organizer for macOS with algorithm benchmarking, checksums, and git-style rollback",
   "keywords": [
     "file-organizer",
