@@ -6,7 +6,9 @@ const path = require('path');
 const args = process.argv.slice(2);
 
 const isMac = os.platform() === 'darwin';
-const isWindows = os.platform() === 'win32';
+//const isWindows = os.platform() === 'win32';
+// To test for windows systems:
+const isWindows = true; // os.platform() === 'win32';
 
 if (!isMac && !isWindows) {
   console.error(`\n  ✗ filo currently does not support platform: ${os.platform()}.\n`);
