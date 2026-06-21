@@ -22,8 +22,9 @@
   "engines": {
     "node": ">=14.0.0"
   },
-  "os": [
-    "darwin"
+"os": [
+    "darwin",
+    "win32"
   ],
   "repository": {
     "type": "git",
