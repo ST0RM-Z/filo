@@ -1,6 +1,6 @@
 # 📁 filo — file + logic
 
-> Intelligent file organizer for macOS. One command. Four views. Full rollback.
+> Intelligent file organizer for macOS and windows. One command. Four views. Full rollback.
 
 ```bash
 npx filo
