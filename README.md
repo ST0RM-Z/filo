@@ -64,7 +64,7 @@ Tier 3 — Token & Temporal Clustering: Automatically groups loose files sharing
 
 ## Output structure
 
-```bash
+
 ~ (User Home Directory)
 ├── Documents/
 │   ├── Medical/            ← Protected user folder (kept intact)
@@ -74,7 +74,7 @@ Tier 3 — Token & Temporal Clustering: Automatically groups loose files sharing
 ├── Movies/                 ← All loose video formats (.mp4, .mov, .mkv)
 ├── Music/                  ← All loose audio formats (.mp3, .wav, .flac)
 └── Projects/               ← Recognized project codebases (.git, package.json)
-```
+
 
 ---
 
