@@ -64,8 +64,7 @@ Tier 3 — Token & Temporal Clustering: Automatically groups loose files sharing
 
 ## Output structure
 
-```
-
+```bash
 ~ (User Home Directory)
 ├── Documents/
 │   ├── Medical/            ← Protected user folder (kept intact)
